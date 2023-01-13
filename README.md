@@ -10,4 +10,6 @@ In this project, I've utilized Express.js, MySQL, and Sequelize to build the bac
 
 ## Video Walkthrough Link
 
-https://watch.screencastify.com/v/pH3sxsAcWbCF9LlNQF0k
+Part 1: https://watch.screencastify.com/v/pH3sxsAcWbCF9LlNQF0k
+
+Part 2: https://watch.screencastify.com/v/wLsfDpj9ZLEw6M0gkfyb
